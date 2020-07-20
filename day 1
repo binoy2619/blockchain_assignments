@@ -1,0 +1,26 @@
+- what is your understanding of blockchain?
+    A block is a collection of data. And each piece of data is added to the blockchain by connecting one block after another in a chronological way, 
+    much in the same way a row of a spreadsheet follows another row.
+    And this series of connected blocks one after another makes it a chain of blocks (i.e. a blockchain).
+
+- what is the core problem of blockchain  trying to solve?
+    - authenticity?
+    - security?
+    - is third party involvement is trustable?
+
+- what are the few features of blockchain will give you?
+    - No Hacking
+    - huge security boost
+    - verifiable
+    - data transparency  = data is hidden
+    - decentralized   = trust is there in community not one superior person
+
+- what are all the things that the blockchain contain?
+    - block number
+    - transaction datas
+    - previous block key
+    - mining key
+
+- how is the verifiability of blockchain has been attained?
+    for example : if there is community of 50 people and out of which one guy data has been changed , so it can be checked by other 49 people if the data
+    is changed or not . that's how  verifiability of blockchain is attained.

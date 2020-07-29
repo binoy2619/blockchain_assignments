@@ -1,0 +1,23 @@
+pragma solidity ^0.4.17 <0.6.12;
+
+contract Report_card{
+string public Name;
+int public Roll_no;
+string public Batch;
+int public Marks;
+string public Status;
+
+
+function Report_card(string name,int roll_no , string batch_no , int marks, string status){
+    Name = name;
+    Roll_no = roll_no;
+    Batch = batch_no;
+    Marks = marks;
+    Status = status;
+}
+
+function get_details()public view returns(string , int , string, int , string ){
+    return (Name , Roll_no , Batch , Marks , Status);
+}
+
+}
